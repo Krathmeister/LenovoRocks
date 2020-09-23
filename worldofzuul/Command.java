@@ -21,6 +21,7 @@ package worldofzuul;
 
 public class Command
 {
+//    dwadwdwaddw
     private CommandWord commandWord;
     private String secondWord;
 
